@@ -3,3 +3,8 @@
 __pycache__
 *.db
 *.pytest_cache
+.learn
+CONTRIBUTING.md
+LICENSE.md
+awesome.gif
+module1_project_rubric.pdf
